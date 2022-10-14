@@ -10,3 +10,4 @@
 4- Run yarn or npm install
 5- After all dependencies are downloaded
 6- Run yarn dev command
+7- oddkddv
